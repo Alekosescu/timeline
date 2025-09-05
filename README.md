@@ -19,5 +19,5 @@ Puedes ver el sitio en línea usando [GitHub Pages](https://pages.github.com/).
 
 ## Créditos
 
-Desarrollado por [Tu Nombre].  
-Basado en fuentes históricas sobre la aviación y el transporte de carga en
+Desarrollado por Alejandro Escudero.  
+Basado en fuentes históricas sobre la aviación y el transporte de carga en Argentina
